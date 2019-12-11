@@ -1,22 +1,2 @@
 {
-  "users": {
-    "asd": {
-      "passwordHash": "$2a$10$p.IcYOTtK/6DkZogBwbkb.HQW393RKJpDCT11ik/u9ogP/3nSQY/C",
-      "data": {
-        "country": "",
-        "city": "",
-        "phoneNumber": "",
-        "email": ""
-      }
-    },
-    "asdd": {
-      "passwordHash": "$2a$10$hnRpWm61iYn/JM2PJY698Occiek.ouooCvIFeBgWtX4/IeEDB24Va",
-      "data": {
-        "country": "",
-        "city": "",
-        "phoneNumber": "",
-        "email": ""
-      }
-    }
-  }
 }
