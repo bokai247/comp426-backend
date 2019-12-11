@@ -1,21 +1,2 @@
 {
-  "todo": "hello",
-  "abciabsda": {
-    "location": {
-      "lat": 35.9131996,
-      "city": -79.0558445
-    }
-  },
-  "abcd": {
-    "location": {
-      "lat": 35.9131996,
-      "lng": -79.0558445
-    },
-    "profile": {
-      "country": "United States",
-      "city": "Chapel Hill",
-      "phoneNumber": "",
-      "email": "asd"
-    }
-  }
 }
