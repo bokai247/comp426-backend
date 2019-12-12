@@ -1,2 +1,103 @@
 {
+  "users": {
+    "hanqi": {
+      "passwordHash": "$2a$10$brYgoP97JiB77WEo87VXJ.sLKf5yZDcRl85Ak1aAtSdm4zWKXCedW",
+      "data": {
+        "country": "United States",
+        "city": "Chapel Hill",
+        "phoneNumber": "",
+        "email": ""
+      }
+    },
+    "coco": {
+      "passwordHash": "$2a$10$T0WVAVNu9/Mf0FBENd3qteTbGeiWQAQFNVm745LzdqdnPjWBOHbSS",
+      "data": {
+        "country": "China",
+        "city": "Shanghai",
+        "phoneNumber": "",
+        "email": ""
+      }
+    },
+    "wangyibo": {
+      "passwordHash": "$2a$10$8YJKj7D3lmEYlGdlsK1Ls.p.agWoeHrnIDk2MOyFApNjuP3KRUBXC",
+      "data": {
+        "country": "China",
+        "city": "Luoyang",
+        "phoneNumber": "",
+        "email": "wangyibo@live.unc.edu"
+      }
+    },
+    "mcmillan": {
+      "passwordHash": "$2a$10$wgJF9yZYAqlERn88J9viAeQQB6LqAVkES.iSOLg.ABC7zb3181Xka",
+      "data": {
+        "country": "United States",
+        "city": "Orlando",
+        "phoneNumber": "",
+        "email": "mcmillan@live.unc.edu"
+      }
+    },
+    "kmp": {
+      "passwordHash": "$2a$10$dLkxS0BdkqNIbdkQujVJFe.hVpY2QcPHTa/vFy95QQkhgekiyDcnS",
+      "data": {
+        "country": "United States",
+        "city": "Chicago",
+        "phoneNumber": "",
+        "email": "kmp@gmail.com"
+      }
+    },
+    "hiddleston": {
+      "passwordHash": "$2a$10$lBwbglaYX75H.16zbCanLuQgzsj0fT9sDHyZ/9RVelwf.7NZelUa2",
+      "data": {
+        "country": "United States",
+        "city": "London",
+        "phoneNumber": "",
+        "email": "hiddleston@england.com"
+      }
+    },
+    "sony": {
+      "passwordHash": "$2a$10$ge994pN9DMsWyml4k/Dng.IzzhElc2txMPT/CgmnTP2v8SmDO4A/q",
+      "data": {
+        "country": "Japan",
+        "city": "Tokyo",
+        "phoneNumber": "",
+        "email": "sony@japan.com"
+      }
+    },
+    "kim jun gum": {
+      "passwordHash": "$2a$10$2ZPZmMEsXY/1bvoCZeFEj.VC9iGKUfeZ6s5DHayNmiz6SgtRP9A6.",
+      "data": {
+        "country": "Korea, South",
+        "city": "Seoul",
+        "phoneNumber": "",
+        "email": "kim@gmail.com"
+      }
+    },
+    "mufasa": {
+      "passwordHash": "$2a$10$N/lN4MbewXNSFGyOXxi7H.C8Coa8uLWnuaYtirVqInIyFtPR9jELW",
+      "data": {
+        "country": "Egypt",
+        "city": "Cairo",
+        "phoneNumber": "",
+        "email": "mufasa@africa.com"
+      }
+    },
+    "justin": {
+      "passwordHash": "$2a$10$eFVNfeExt.lTDKDG1oApQ.XDDOqMWc6z4n96avihAcP4UTvk9mvKy",
+      "data": {
+        "country": "Australia",
+        "city": "Sydney",
+        "phoneNumber": "",
+        "email": "justin@autra.com"
+      }
+    },
+    "dilidili": {
+      "passwordHash": "$2a$10$w1q/mNXJJzAMqQR4tPO9yeNzvAYGnXEkdrJxIzx85hbhasl60GQ9u",
+      "data": {
+        "country": "Russia",
+        "city": "Moscow",
+        "phoneNumber": "",
+        "email": "dilidili@mos.com"
+      }
+    }
+  }
 }
