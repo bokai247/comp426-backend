@@ -63,15 +63,6 @@
         "email": "sony@japan.com"
       }
     },
-    "kim jun gum": {
-      "passwordHash": "$2a$10$2ZPZmMEsXY/1bvoCZeFEj.VC9iGKUfeZ6s5DHayNmiz6SgtRP9A6.",
-      "data": {
-        "country": "Korea, South",
-        "city": "Seoul",
-        "phoneNumber": "",
-        "email": "kim@gmail.com"
-      }
-    },
     "mufasa": {
       "passwordHash": "$2a$10$N/lN4MbewXNSFGyOXxi7H.C8Coa8uLWnuaYtirVqInIyFtPR9jELW",
       "data": {
@@ -97,6 +88,15 @@
         "city": "Moscow",
         "phoneNumber": "",
         "email": "dilidili@mos.com"
+      }
+    },
+    "ziwei": {
+      "passwordHash": "$2a$10$BkY0TzvSzH9H1KpsbyVZV.Mxp6vmld6Lbqft9uf7Ah2zRzn4MaoSq",
+      "data": {
+        "country": "China",
+        "city": "Chongqing",
+        "phoneNumber": "",
+        "email": "ziwei@unc.edu"
       }
     }
   }

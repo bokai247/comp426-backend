@@ -330,50 +330,6 @@
       "sony"
     ]
   },
-  "kim jun gum": {
-    "location": {
-      "lat": 37.566535,
-      "lng": 126.9779692
-    },
-    "profile": {
-      "country": "Korea, South",
-      "city": "Seoul",
-      "phoneNumber": "",
-      "email": "kim@gmail.com"
-    },
-    "score": [
-      1,
-      7,
-      2,
-      3,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "closest10": [
-      "hanqi",
-      "coco",
-      "wangyibo",
-      "mcmillan",
-      "kmp",
-      "hiddleston",
-      "sony",
-      "kim jun gum"
-    ]
-  },
   "mufasa": {
     "location": {
       "lat": 30.0444196,
@@ -415,7 +371,6 @@
       "kmp",
       "hiddleston",
       "sony",
-      "kim jun gum",
       "mufasa"
     ]
   },
@@ -460,7 +415,6 @@
       "kmp",
       "hiddleston",
       "sony",
-      "kim jun gum",
       "mufasa",
       "justin"
     ]
@@ -506,7 +460,52 @@
       "kmp",
       "hiddleston",
       "sony",
-      "kim jun gum",
+      "mufasa",
+      "justin",
+      "dilidili"
+    ]
+  },
+  "ziwei": {
+    "location": {
+      "lat": 29.4315861,
+      "lng": 106.912251
+    },
+    "profile": {
+      "country": "China",
+      "city": "Chongqing",
+      "phoneNumber": "",
+      "email": "ziwei@unc.edu"
+    },
+    "score": [
+      1,
+      5,
+      2,
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5,
+      0
+    ],
+    "closest10": [
+      "hanqi",
+      "coco",
+      "wangyibo",
+      "mcmillan",
+      "kmp",
+      "hiddleston",
+      "sony",
       "mufasa",
       "justin",
       "dilidili"
