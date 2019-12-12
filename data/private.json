@@ -42,7 +42,7 @@
         "author": "hanqi",
         "body": "post",
         "isMine": true,
-        "isLiked": false,
+        "isLiked": [],
         "replyCount": 0,
         "likeCount": 0,
         "replies": [],
@@ -86,7 +86,16 @@
     ],
     "closest10": [
       "hanqi",
-      "coco"
+      "coco",
+      "wangyibo",
+      "mcmillan",
+      "kmp",
+      "hiddleston",
+      "sony",
+      "mufasa",
+      "justin",
+      "dilidili",
+      "ziwei"
     ],
     "tweet": {
       "0": {
@@ -94,7 +103,7 @@
         "author": "coco",
         "body": "i am not coco",
         "isMine": true,
-        "isLiked": false,
+        "isLiked": [],
         "replyCount": 1,
         "likeCount": 0,
         "replies": [
@@ -117,11 +126,55 @@
         "author": "coco",
         "body": "next date",
         "isMine": true,
-        "isLiked": false,
+        "isLiked": [],
         "replyCount": 0,
         "likeCount": 0,
         "replies": [],
         "createdAt": 1576105780821
+      },
+      "2": {
+        "type": "tweet",
+        "author": "coco",
+        "body": "post",
+        "isMine": true,
+        "isLiked": [],
+        "replyCount": 0,
+        "likeCount": 0,
+        "replies": [],
+        "createdAt": 1576178188652
+      },
+      "3": {
+        "type": "tweet",
+        "author": "coco",
+        "body": "post",
+        "isMine": true,
+        "isLiked": [],
+        "replyCount": 0,
+        "likeCount": 0,
+        "replies": [],
+        "createdAt": 1576178189963
+      },
+      "4": {
+        "type": "tweet",
+        "author": "coco",
+        "body": "dasdas",
+        "isMine": true,
+        "isLiked": [],
+        "replyCount": 2,
+        "likeCount": 0,
+        "replies": [
+          {
+            "author": "wangyibo",
+            "parent": 4,
+            "body": "dasdas"
+          },
+          {
+            "author": "wangyibo",
+            "parent": 4,
+            "body": "I like you"
+          }
+        ],
+        "createdAt": 1576178190438
       }
     }
   },
@@ -161,7 +214,15 @@
     "closest10": [
       "hanqi",
       "coco",
-      "wangyibo"
+      "wangyibo",
+      "mcmillan",
+      "kmp",
+      "hiddleston",
+      "sony",
+      "mufasa",
+      "justin",
+      "dilidili",
+      "ziwei"
     ]
   },
   "mcmillan": {
