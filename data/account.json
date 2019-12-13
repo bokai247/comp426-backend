@@ -98,6 +98,87 @@
         "phoneNumber": "",
         "email": "ziwei@unc.edu"
       }
+    },
+    "hongyi": {
+      "passwordHash": "$2a$10$x58y/OUzQZi4aKN26cGvn.o2KW9/CP2qcC9Oy1LTweA1mhk74hOG6",
+      "data": {
+        "country": "United States",
+        "city": "London",
+        "phoneNumber": "",
+        "email": ""
+      }
+    },
+    "cici2": {
+      "passwordHash": "$2a$10$EFiNtaN5mN2y5KwiuSVmw.MA8nRaOW32eszLm9jt7UDwLCvJKKVGy",
+      "data": {
+        "country": "China",
+        "city": "Shanghai",
+        "phoneNumber": "",
+        "email": ""
+      }
+    },
+    "test": {
+      "passwordHash": "$2a$10$NiFWU18xdwEsUVByAE/OrOEUvBx6mbgkpS6xDqCrGST36H4nhelr.",
+      "data": {
+        "country": "Eritrea",
+        "city": "Teseney",
+        "phoneNumber": "",
+        "email": ""
+      }
+    },
+    "phil": {
+      "passwordHash": "$2a$10$maNN.4.Rp/hD2wtbI6FS8OUWw/EMnuEa76nszlsf1.xhJJ8CdM1rS",
+      "data": {
+        "country": "United States",
+        "city": "Dallas",
+        "phoneNumber": "",
+        "email": ""
+      }
+    },
+    "phil2": {
+      "passwordHash": "$2a$10$o5Ekxq3XDqoUw7TQPoKfSubOAOSQH74Txsy7rlUOfvb0OSAV3ZrjW",
+      "data": {
+        "country": "United States",
+        "city": "Dallas",
+        "phoneNumber": "",
+        "email": ""
+      }
+    },
+    "nyui": {
+      "passwordHash": "$2a$10$uMFKd4U.mlZv6TrH4ZoOWulYAzPEmpr2w3fjOhHT2Pah9b8MGnk1m",
+      "data": {
+        "country": "Russia",
+        "city": "Chapayevsk",
+        "phoneNumber": "",
+        "email": ""
+      }
+    },
+    "yan": {
+      "passwordHash": "$2a$10$v.AiSKeeZcOtG7SHYQDvUu8ARQJ.VPIXsBMExkvNMjx3QSLa03wpy",
+      "data": {
+        "country": "Russia",
+        "city": "Moscow",
+        "phoneNumber": "",
+        "email": ""
+      }
+    },
+    "hello": {
+      "passwordHash": "$2a$10$DD5UEtEbeB973FQabsyK.uQ/1wJfun6aE7dtELAwhEeZ1Z34GYumm",
+      "data": {
+        "country": "United States",
+        "city": "Chapel Hill",
+        "phoneNumber": "",
+        "email": ""
+      }
+    },
+    "pokemon": {
+      "passwordHash": "$2a$10$4p8Geq/Hrz218WRx3DAbgOzDPZqpw4P7273zs5vcZiNm2JSR/.JD.",
+      "data": {
+        "country": "Japan",
+        "city": "Tokyo",
+        "phoneNumber": "",
+        "email": ""
+      }
     }
   }
 }
